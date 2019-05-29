@@ -1,0 +1,13 @@
+body{
+	background: url("../images/background.jpg");
+	background-size: 100%;
+    background-repeat: no-repeat;
+    color: black;
+}
+* {
+	box-sizing: border-box;
+}
+img { 
+    height: 150px;
+    width: 150px;
+}
